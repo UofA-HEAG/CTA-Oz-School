@@ -13,3 +13,9 @@ During the school, we will also work with these notebooks, since they are very u
 #### Execute Code
 
 Just type `Shift+Enter` to execute a cell.
+
+#### Help
+
+To get information on an object, method, ... (within a notebook): Type the name followed by a question mark and then `Enter`.
+For example:
+`numpy.percentile?`
