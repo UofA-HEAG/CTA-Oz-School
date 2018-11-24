@@ -1,12 +1,14 @@
 # Installation Instructions
 
 We recommend to bring a laptop with a UNIX-based operating system (MacOS or Linux).
-To install the software, you will need approx. 3GB of free disk space.
+To install the software, you will need approx. 3GB of free disk space.  
 The different data sets will require additional disk space:  
 * Galactic plane survey (8.3 GB)
 * Galactic centre survey (4.4 GB)
 * Extragalactic survey (2.5GB)
 * AGN monitoring program (4.7GB)
+
+__Note__: There are subsets of these datasets available as well, which will be sufficient in the beginning to play around with.
 
 ## Datasets
 We will provide copies of the data set during the meeting.
