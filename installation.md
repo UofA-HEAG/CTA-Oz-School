@@ -38,25 +38,23 @@ yes
 ## Installation of gammapy
 We will use gammapy to analyse the CTA data. You can find its documentation here: http://docs.gammapy.org/dev/install/index.html
 
-To avoid messing up with other python projects you might be working on, I recommend to create a virtual environment for this tutorial:
+To avoid messing up with other python projects you might be working on, I recommend to create a virtual environment for this tutorial. Therefore, download the file `environment.yml` and then:
 
-`conda create --name CTA-Oz`
+`conda env create -f environment.yml`
 
-You will be asked if you want to download / install packages – say yes by typing:
+This will create an environment with the name cta-oz, including gammapy. To access this environment, you have do activate it (every time you open a new terminal):
 
-`y`
+source activate cta-oz
 
-This will create an environment with the name CTA-Oz. To access this environment, you have do activate it (every time you open a new terminal):
-
-`source activate CTA-Oz`
-
-Now,  let’s install gammapy:
+In case, you don't want to install this environment, but only gammapy:
 
 `conda install -c conda-forge gammapy`
 
-You will be asked if you want to install a list of packages – say yes by typing
+In case, you don't use anaconda:
 
-`y`
+`python -m pip install gammapy`
+
+#### Check Installation
 
 To check the installation, type in the terminal:
 
