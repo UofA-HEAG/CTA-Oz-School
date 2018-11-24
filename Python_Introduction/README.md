@@ -1,6 +1,6 @@
 # Jupyter Notebooks
 
-The examples in this folder are so-called ipython notebooks (.ipynb). They can be viewed here, but you can also download them and user them intereactively.
+The examples in this folder are so-called ipython notebooks (.ipynb). They can be viewed here, but you can also download them and use them intereactively.
 
 During the school, we will also work with these notebooks, since they are very useful for developing code and learning new tools.
 
