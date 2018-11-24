@@ -63,6 +63,7 @@ python
 import gammapy
 print(gammapy.__version__)
 print(gammapy.__path__)
+exit()
 ```
 
 If you get error messages, please check if you have done everything as described – otherwise please contact Sabrina.
