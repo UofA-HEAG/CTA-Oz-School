@@ -22,5 +22,7 @@ Knowledge on how to analyse (especially low-level) data is not required for the 
 Experience with python is not required, but it is strongly recommended that you familiarise yourself with basic functionalities. So-called ipython/jupyter notebooks will be used for the tutorials. Helpful links will be provided together with the installation instructions.
 
 CTA School times:
+
 Wednesday 5 Dec - start 16:30 approximately; finish 17:30.
+
 Thursday 6 Dec - start 09:00; finish 15:00 approximately. 
