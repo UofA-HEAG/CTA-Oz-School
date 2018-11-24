@@ -6,7 +6,7 @@ During the school, we will also work with these notebooks, since they are very u
 
 #### Start a Notebook
 
-* Where necessary, activate a specific conda environment, e.g. for the school: `source activate CTA-Oz`
+* Where necessary, activate a specific conda environment, e.g. for the school: `source activate cta-oz`
 * Start a specific notebook via `jupyter notebook SomeNotebook.ipynb`
 * You can create a new notebook via `File->New->Notebook` and select python 3 or `New->Python 3`.
 
